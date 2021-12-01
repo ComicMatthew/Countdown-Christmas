@@ -20,6 +20,8 @@ h1 {
 }
 .container { 
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     
 }
 
@@ -31,6 +33,5 @@ h1 {
 
 div span {
     font-size: 2rem;
-    margin-right: 10px;
-    margin-left: 10px;
+    
 }

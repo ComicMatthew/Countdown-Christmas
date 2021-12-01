@@ -8,7 +8,7 @@ const hours = document.getElementById('hours')
 const minutes = document.getElementById('minutes')
 const secondss = document.getElementById('seconds')
 
-const christmas = "24 Dec 2021" ; 
+const christmas = "26 Dec 2021" ; 
 
 
 function countdown() { 
